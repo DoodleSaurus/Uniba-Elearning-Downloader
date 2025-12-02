@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ## Usage
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/Uniba-Elearning-Downloader.git
+   git clone https://github.com/DoodleSaurus/Uniba-Elearning-Downloader.git
    cd Uniba-Elearning-Downloader
    ```
 
